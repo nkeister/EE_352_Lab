@@ -1,0 +1,6 @@
+* source PRELAB4_EE532
+R_R1         N143511 N14634  200000 TC=0,0 
+R_R2         N14634 0  200000 TC=0,0 
+R_R3         N14634 0  1000000 TC=0,0 
+C_C1         N14634 0  95pF  TC=0,0 
+V_V1         N143511 0 DC 5Vdc AC 5Vac 

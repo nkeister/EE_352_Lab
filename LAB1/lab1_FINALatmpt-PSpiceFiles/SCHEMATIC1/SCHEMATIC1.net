@@ -1,0 +1,5 @@
+* source LAB1_FINALATMPT
+L_L1         N17139 N17002  1mH  
+R_R1         0 N17002  300 TC=0,0 
+R_R2         N17139 N16498  50 TC=0,0 
+V_V1         N16498 0 DC 5 AC 5 
